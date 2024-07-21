@@ -5,9 +5,9 @@
     -Request
     -DotEnv
 
-2. Setup the environment files for the API keys to keep them safe
+2. Setup the environment files for the API keys
 
-    
+
 
 3. Created the functions to retrieve the data from the APIs
 
